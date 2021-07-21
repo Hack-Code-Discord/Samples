@@ -142,7 +142,7 @@ namespace KeyLogger
                     }
                     // reset handle
                     hWndHook = IntPtr.Zero;
-                    // unsubscrine event handler
+                    // unsubscribe event handler
                     kbHookProcess -= GetLowLevelKeyboardProcess;
                 }
             }
@@ -164,7 +164,7 @@ namespace KeyLogger
         /// </summary>
         public void Dispose()
         {
-            // dispose all system marchalled resources
+            // dispose all system marshalled resources
             Dispose(true);
             // request that the CLR not call the finalizer for this instance
             GC.SuppressFinalize(this);

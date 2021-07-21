@@ -1,0 +1,4 @@
+Auxiliary/Windows/Sniffers/KeyLogger/.vs/*
+Auxiliary/Windows/Sniffers/KeyLogger/obj/*
+Auxiliary/Windows/Sniffers/KeyLogger/bin/*
+.git/*
