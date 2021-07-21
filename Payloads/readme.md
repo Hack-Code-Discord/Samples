@@ -1,1 +1,1 @@
-to be added
+Packages that can be used as entities for delivering a message or action.

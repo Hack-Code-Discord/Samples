@@ -1,1 +1,1 @@
-to be added
+Auxiliar tools that can aid in the process of social engineering, data gathering, payload delivering, attacking, etc.
